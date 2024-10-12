@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-non-null-assertion */
 /// <reference types="vite/client" />
 import React from "react";
 import ReactDOM from "react-dom/client";
