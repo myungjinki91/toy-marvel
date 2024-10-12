@@ -1,3 +1,29 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
 
+.title {
+  font-size: 2rem;
+  font-weight: 900;
+  color: white;
+  margin-bottom: 20px;
+}
 
+.series {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
 
+.seriesTitle {
+  font-size: 1.8em;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+
+.seriesName {
+  text-align: left;
+  font-weight: 600;
+}
