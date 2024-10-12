@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/toy-marvel-characters/static/css/main.fc5c2c69.css",
+    "main.js": "/toy-marvel-characters/static/js/main.421d5ea9.js",
+    "index.html": "/toy-marvel-characters/index.html",
+    "main.fc5c2c69.css.map": "/toy-marvel-characters/static/css/main.fc5c2c69.css.map",
+    "main.421d5ea9.js.map": "/toy-marvel-characters/static/js/main.421d5ea9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.421d5ea9.js"
+  ]
+}
